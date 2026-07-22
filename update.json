@@ -1,0 +1,26 @@
+{
+  "latestVersion": "1.1.0",
+  "versionCode": 2,
+  "minimumVersion": "1.0.0",
+  "apkUrl": "https://github.com/anmit436-cell/milk-cash-updates/releases/download/v1.1.0/app-release.apk",
+  "fileSize": "52.9 MB",
+  "sha256": "fbb3937bb0d57c9270b2110ed18dff5f2f5b179d1db13ea6bbea4b7235f991f2",
+  "packageName": "com.mishramilk.mishra_milk_cash",
+  "status": "Active",
+  "forceUpdate": false,
+  "rolloutPercentage": 100,
+  "releaseChannel": "Stable",
+  "categorizedChangelog": {
+    "🚀 Features": [
+      "Added brand new dashboard",
+      "New reporting system"
+    ],
+    "🐞 Bug Fixes": [
+      "Fixed alignment issues on small screens"
+    ]
+  },
+  "minAndroidVersion": 21,
+  "maxAndroidVersion": 99,
+  "supportedArchitectures": [],
+  "minFreeStorageMB": 100
+}
