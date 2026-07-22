@@ -11,11 +11,11 @@
   "rolloutPercentage": 100,
   "releaseChannel": "Stable",
   "categorizedChangelog": {
-    "🚀 Features": [
+    "Features": [
       "Added brand new dashboard",
       "New reporting system"
     ],
-    "🐞 Bug Fixes": [
+    "Bug Fixes": [
       "Fixed alignment issues on small screens"
     ]
   },
