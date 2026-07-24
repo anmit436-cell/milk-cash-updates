@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.1.0",
-  "versionCode": 2,
+  "latestVersion": "1.2.0",
+  "versionCode": 3,
   "minimumVersion": "1.0.0",
-  "apkUrl": "https://github.com/anmit436-cell/milk-cash-updates/releases/download/v1.1.0/app-release.apk",
+  "apkUrl": "https://github.com/anmit436-cell/milk-cash-updates/releases/download/v1.2.0/app-release.apk",
   "fileSize": "52.9 MB",
-  "sha256": "b1233d9ea4a75a998ac2392dc7b78b037c373c0d8e8796e3dc62a435faa1924c",
+  "sha256": "3a319ab9a7141d3c7c54430d39a374ba4d99c91d0052030eb4a27738c8a0065c",
   "packageName": "com.mishramilk.mishra_milk_cash",
   "status": "Active",
   "forceUpdate": false,
@@ -12,6 +12,7 @@
   "releaseChannel": "Stable",
   "categorizedChangelog": {
     "Features": [
+      "Updated numeric keyboard UI and behavior",
       "Added brand new dashboard",
       "New reporting system"
     ],
