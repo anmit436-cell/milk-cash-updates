@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.2.2",
-  "versionCode": 5,
+  "latestVersion": "1.2.3",
+  "versionCode": 6,
   "minimumVersion": "1.0.0",
-  "apkUrl": "https://github.com/anmit436-cell/milk-cash-updates/releases/download/v1.2.2/app-release.apk",
-  "fileSize": "52.9 MB",
-  "sha256": "d74c49f3d1e4044714200a17a6814e24034fd9801a4e371e32771a7f31b4f2c8",
+  "apkUrl": "https://github.com/anmit436-cell/milk-cash-updates/releases/download/v1.2.3/app-release.apk",
+  "fileSize": "52.6 MB",
+  "sha256": "8dc3411f7a6be5499b1fcb0ffae44c747d3336e6e8beeca9e0446f3c0e6bac00",
   "packageName": "com.mishramilk.mishra_milk_cash",
   "status": "Active",
   "forceUpdate": false,
@@ -12,7 +12,7 @@
   "releaseChannel": "Stable",
   "categorizedChangelog": {
     "Features": [
-      "Updated Tally Cash Panel to compute difference between Expected Cash and Counted Cash."
+      "Updated Application Icon to the new Mishra Milk Center Logo."
     ],
     "Bug Fixes": []
   },
